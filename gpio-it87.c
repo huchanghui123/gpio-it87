@@ -44,7 +44,7 @@
 #define IT8761_ID	0x8761
 #define IT8772_ID	0x8772
 #define IT8786_ID	0x8786
-#define IT8784_ID	0x8784
+#define IT8784_ID	0x8784  //add support for IT8784E
 
 /* IO Ports */
 #define REG		0x2e
